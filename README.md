@@ -7,6 +7,7 @@ Flashcard is a Django-based app that helps you study and memorize information wi
 3. Navigate to the project directory and run the following command to start the server:
 
 `python manage.py runserver`
+
 4. Open your web browser and go to http://localhost:8000/ to access the app.
 
 ## Usage
