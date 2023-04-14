@@ -15,7 +15,7 @@ Flashcard is a Django-based app that helps you study and memorize information wi
 To use Flashcard, follow these steps:
 
 1. Create a new flashcard by clicking the "✨ Create New Card" button.
-2. Enter the front and back of the flashcard, along with any additional information.
+2. Enter the Question and Answer of the flashcard
 3. Choose which box you want to store the flashcard in by selecting the appropriate option from the drop-down menu.
 4. Save the flashcard by clicking the "Save Card" button.
 5. Edit flashcards as needed.
