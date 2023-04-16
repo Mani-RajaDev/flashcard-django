@@ -2,7 +2,7 @@
 Flashcard is a Django-based app that helps you study and memorize information with ease. With Flashcard, you can create custom flashcards for any subject and quiz yourself at your own pace.
 
 ## Installation
-1. Download or clone the repository from GitHub.
+1. Download or clone the repository. 
 2. Install the required dependencies by running `pip install -r requirements.txt`
 3. Navigate to the project directory and run the following command to start the server:
 
